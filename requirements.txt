@@ -1,2 +1,14 @@
+bd2k-python-lib==1.14a1.dev29
+click==6.6
+colorclass==2.2.0
+dill==0.2.5
+foreman==0.9.7
+formats==0.1.1
+futures==3.0.5
+python-dotenv==0.6.1
+requests==2.12.3
+requests-futures==0.9.7
+six==1.10.0
 srt==1.2.0
-wsgiref==0.1.2
+toil==3.3.5
+tortilla==0.4.2
